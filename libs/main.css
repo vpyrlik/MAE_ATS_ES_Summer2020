@@ -458,15 +458,6 @@ midd-blockquote {
   text-decoration: line-through;
 }
 
-.fvp {
-    background-color: #f7ea68;
-    background-image: url('fvp.png');
-    background-position: 50% 50%;
-    background-size: 75%;
-    font-size: 12px;
-    vertical-align: bottom;
-}
-
 .tinyurl {
   color: #4C4B4C;
   font-size: 0.4em;
