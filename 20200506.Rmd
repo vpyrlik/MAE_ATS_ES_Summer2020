@@ -1,0 +1,28 @@
+---
+title: "Applied Time Series: Exercise Session 00"
+subtitle: "Introduction into EViews"
+author: "Vladimir Pyrlik"
+date: "May 6, 2020"
+output:
+  xaringan::moon_reader:
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    lib_dir: libs
+    css: [libs/main.css, libs/fonts.css, libs/animate.css]
+    chakra: libs/remark-latest.min.js
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+      highlightLines: true
+      ratio: "8:5"
+---
+class: section, animated, fadeIn
+##Introductions
+
+---
+class: section, animated, bounceIn
+##Outline
+
+---
+class: section, animated, bounceIn
+##See you in a week!
+#Thank you!
