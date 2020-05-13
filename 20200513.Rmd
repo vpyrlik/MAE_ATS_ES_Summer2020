@@ -1,0 +1,65 @@
+---
+title: "Applied Time Series: Exercise Session 1"
+subtitle: "Univariate Non-stationarity"
+author: "Vladimir Pyrlik"
+date: "May 13, 2020"
+output:
+  xaringan::moon_reader:
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
+    lib_dir: libs
+    css: [libs/main.css, libs/fonts.css, libs/animate.css]
+    chakra: libs/remark-latest.min.js
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+      highlightLines: true
+      ratio: "8:5"
+---
+class: hands, center, middle, animated, flipInY
+
+##Have you all got EViews installed?
+
+### Which versions?
+
+---
+class: center, animated, fadeIn
+##Class Materials
+
+The materials are avialble either on CMS or [Padlet.com/vpyrlik/ATS20ES](htpp://padlet.com/vpyrlik/ATS20ES)
+
+--
+
+![](stuff/es1data.png)
+
+###Or direct link to the data with *Student version of EV friendly WFs!*
+
+---
+class: animated, fadeIn
+#Outline
+
+##We are following the setup of ES1 from the course materials
+
+###Warm-up: Exercise 1
+
+--
+
+###Ideally today: Exercises 2 & 4
+
+--
+
+###One of the next times: Exercise 6
+
+---
+class: hands, middle, animated, flipInY
+
+### Quick recall
+
+## What have we learned on the lectures?
+
+---
+class: section, animated, bounceIn
+##Thank you!
+
+###Check the course materisals on Padlet for the solutions!
+
+#See you in a week!
