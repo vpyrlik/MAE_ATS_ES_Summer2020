@@ -1,6 +1,6 @@
 ---
 title: "Applied Time Series: Exercise Session 2"
-subtitle: "Univariate Non-stationarity"
+subtitle: "Univariate Non-stationarity: **Trends**"
 author: "Vladimir Pyrlik"
 date: "May 27, 2020"
 output:
