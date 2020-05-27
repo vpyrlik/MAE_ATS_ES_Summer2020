@@ -1,8 +1,8 @@
 ---
-title: "Applied Time Series: Exercise Session 1"
+title: "Applied Time Series: Exercise Session 2"
 subtitle: "Univariate Non-stationarity"
 author: "Vladimir Pyrlik"
-date: "May 13, 2020"
+date: "May 27, 2020"
 output:
   xaringan::moon_reader:
     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
@@ -14,47 +14,52 @@ output:
       countIncrementalSlides: false
       highlightLines: true
       ratio: "8:5"
----
-class: hands, center, middle, animated, flipInY
-
-##Have you all got EViews installed?
-
-### Which versions?
 
 ---
 class: center, animated, fadeIn
 ##Class Materials
 
-The materials are avialble either on CMS or [Padlet.com/vpyrlik/ATS20ES](htpp://padlet.com/vpyrlik/ATS20ES)
+[Padlet.com/vpyrlik/ATS20ES](htpp://padlet.com/vpyrlik/ATS20ES)
 
---
+###or
 
-![](stuff/es1data.png)
+![](stuff/es2data.png)
 
-###Or direct link to the data with *Student version of EV friendly WFs!*
+.pull-right[.rmk[Student EV-friendly WFs!]]
 
 ---
 class: animated, fadeIn
-#Outline
+#Today
+- finish *what we can* from ES1
 
-##We are following the setup of ES1 from the course materials
+- **start ES2**
 
-###Warm-up: Exercise 1
+</br>
 
---
+#ES2 Outline
 
-###Ideally today: Exercises 2 & 4
+- Ex 1 (*qq 2, 6, 7*)
 
---
+- Ex 3
 
-###One of the next times: Exercise 6
+- Ex 5 (*qq 1, 2*)
 
 ---
-class: hands, middle, animated, flipInY
+class: section, animated, flipInY
 
-### Quick recall
+.rb[No Extra Class this Friday]
 
-## What have we learned on the lectures?
+</br></br>
+
+To discuss **the Sample Midterm**
+
+we are meeting **Monday, 11:30am**
+
+</br>
+
+.rb[NB!] Only answering your questions! *Be prepared to ask some!*
+
+.pull-right[.rmk[feel free to ask anything in advance]]
 
 ---
 class: section, animated, bounceIn
@@ -62,4 +67,4 @@ class: section, animated, bounceIn
 
 ###Check the course materisals on Padlet for the solutions!
 
-#See you in a week!
+#See you next week!
